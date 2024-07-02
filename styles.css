@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(3, 29, 44, 0.844);
+    color: rgb(226, 251, 244);
+    padding: 10px;
+}
+
+#image{
+    float:right;
+}
+
+#header{
+    float:right;
+}
+
+#reviews{
+    clear:both;
+}
